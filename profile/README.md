@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, We're Callum Telfer Development</h1>
 <h3 align="center">An organisation passionate about high quality software development</h3>
 
-<p align="center">- 🔭 We're currently working on [Geo Wordle](https://geo.voidem.com)</p>
+<p align="center">- 🔭 We're currently working on <a href="https://geo.voidem.com">Geo Wordle</a></p>
 
 <h3 align="center">Connect with us:</h3>
 <p align="center">EMAIL COMING SOON</p>
