@@ -4,7 +4,7 @@ We are a software development organization passionate about high quality softwar
 
 ## 🚀 Current Projects
 
-- [Geo Wordle](https://geo.voidem.com) - A geographical version of the classic word game. Test your knowledge of locations around the world!
+- [WhatLand](https://whatland.fun?utm_source=github&utm_medium=referral) - A geographical version of the classic Wordle game. Test your knowledge of locations around the world!
 
 ## 💡 What We Do
 
