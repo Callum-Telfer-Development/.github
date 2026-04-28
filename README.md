@@ -32,13 +32,6 @@ At Callum Telfer Development, we specialize in:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Get in Touch
-
-We're always interested in discussing new projects and opportunities. Reach out to us:
-
-- 📧 Email: [In Development]
-- 🌐 Website: [In Development]
-
 ## 🤝 Let's Build Something Amazing Together
 
 Whether you need a custom web application, technical consultation, or help modernizing your existing systems, we're here to help turn your vision into reality.
